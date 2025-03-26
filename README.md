@@ -1,5 +1,3 @@
----
-
 # **🔧 Salaryman Setup**  
 *Minimal tools for maximum shipping.*
 
